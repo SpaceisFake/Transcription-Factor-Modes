@@ -20,3 +20,6 @@ Helps visualize the relationship between lfpkm and MD score and demonstrate how 
 
 ### Comparing lfpkm distribution (covariance, std. dev, and IQR)
 Compares TFs by GC content, an ongoing point of research the Dowell Allen lab. 
+
+
+*Please note that these notebooks were not intended to be presented or viewed, but were instead used for workspace and analysis*
